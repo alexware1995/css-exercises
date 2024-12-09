@@ -1,0 +1,16 @@
+
+.option1,
+.option2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.option1{
+    color: white;
+    background-color: black;
+}
+
+.option2{
+    color: black;
+    background-color: yellow;
+}
